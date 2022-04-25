@@ -1,1 +1,7 @@
 # projeto-chale-hotel-udemy
+
+Design Fluído
+Os layouts fluídos utilizam uma porcentagem do espaço em vez de largura fixa, ou seja, eles acompanham o tamanho da tela do dispositivo que você está usando sem mudar a estrutura.
+
+O maior problema com design fluido é o fato de que os elementos na página não podem se ajustar em conformidade. Isto significa que quando você mover para um monitor widescreen, a página e seu conteúdo podem parecer esticados. Se mover para uma tela menor como a de um tablet ou um smartphone tudo vai se aglomerar no meio.
+
